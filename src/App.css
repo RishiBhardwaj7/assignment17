@@ -1,6 +1,6 @@
 .outer {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:inherit;
 }
 
 .card {
